@@ -99,4 +99,4 @@ Lógica de programação;
 Entrada e saída de dados;
 Organização de código;
 Versionamento de projetos com Git e GitHub.
-<img width="1000" height="500" alt="DespicableMeVectorGIF" src="https://github.com/user-attachments/assets/1591a99a-a67f-4fdc-ab52-382fdf454715" />
+<img width="750" height="750" alt="OhYeahVectorGIF" src="https://github.com/user-attachments/assets/dfdc2c6b-4f9c-46d1-8347-2ff61a1f5055" />
