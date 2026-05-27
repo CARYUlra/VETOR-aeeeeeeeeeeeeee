@@ -137,4 +137,4 @@ Entrada e saída de dados;
 Organização de algoritmos;
 Versionamento de código com Git/GitHub.
 
-<img width="350" height="350" alt="OhYeahVectorGIF" src="https://github.com/user-attachments/assets/ecb7a7d5-1516-452b-b6c8-3bee889934bf" /><img width="350" height="350" alt="OhYeahVectorGIF" src="https://github.com/user-attachments/assets/ecb7a7d5-1516-452b-b6c8-3bee889934bf" />
+<img width="375" height="375" alt="OhYeahVectorGIF" src="https://github.com/user-attachments/assets/ecb7a7d5-1516-452b-b6c8-3bee889934bf" /><img width="375" height="375" alt="OhYeahVectorGIF" src="https://github.com/user-attachments/assets/ecb7a7d5-1516-452b-b6c8-3bee889934bf" />
