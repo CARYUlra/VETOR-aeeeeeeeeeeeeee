@@ -1,28 +1,31 @@
-📋 Descrição do Projeto
+📖 Sobre o Projeto
 
-Este repositório contém a implementação de exercícios práticos desenvolvidos em JavaScript, com foco em manipulação de vetores, estruturas de repetição, entrada de dados e lógica de programação, sem a utilização de funções prontas para arrays.
+Este repositório reúne uma série de exercícios desenvolvidos em JavaScript, com foco em manipulação de vetores, lógica de programação e estruturas de repetição, sem a utilização de métodos prontos de arrays.
 
-O objetivo principal da atividade é fortalecer os conceitos fundamentais da linguagem JavaScript, além de praticar técnicas de versionamento utilizando Git e GitHub.
+As atividades foram propostas com o objetivo de fortalecer conceitos fundamentais da programação, além de incentivar boas práticas de organização e versionamento de código utilizando Git e GitHub.
 
-🎯 Objetivos da Atividade
-Desenvolver algoritmos utilizando vetores em JavaScript;
-Trabalhar lógica de programação sem utilizar métodos nativos de arrays;
-Aplicar estruturas condicionais e de repetição;
+🎯 Objetivos
+Desenvolver algoritmos utilizando vetores;
+Trabalhar lógica de programação em JavaScript;
+Utilizar estruturas condicionais e de repetição;
+Implementar soluções sem funções nativas de arrays;
 Realizar testes de execução dos programas;
-Utilizar versionamento local e remoto com Git/GitHub.
-✅ Resultados Esperados
-Programas desenvolvidos em JavaScript (.js);
-Algoritmos funcionando corretamente após testes;
-Aplicação prática de estruturas de vetores;
-Organização e versionamento do código em repositório local e remoto;
-Consolidação dos conceitos básicos de programação.
+Aplicar versionamento local e remoto com Git.
+✅ Resultados Obtidos
+
+✔️ Programas desenvolvidos em JavaScript (.js)
+✔️ Algoritmos testados e funcionando corretamente
+✔️ Utilização de estruturas de vetores para resolução dos problemas
+✔️ Organização e versionamento dos arquivos no GitHub
+✔️ Aplicação prática dos conceitos de lógica de programação
+
 🛠️ Tecnologias Utilizadas
 JavaScript
 Node.js
 Git
 GitHub
 📂 Estrutura do Projeto
-📁 projeto-vetores-js
+📁 algoritmos-vetores-js
 │
 ├── exercicio1.js
 ├── exercicio2.js
@@ -32,71 +35,89 @@ GitHub
 📚 Exercícios Desenvolvidos
 1️⃣ Soma dos Números Pares
 
-Programa responsável por:
+Desenvolvimento de um programa capaz de:
 
-Ler 10 números inteiros;
+Ler 10 números inteiros informados pelo usuário;
 Armazenar os valores em um vetor;
-Calcular a soma apenas dos números pares;
-Exibir o resultado final.
-Conceitos aplicados:
+Identificar os números pares;
+Calcular e exibir a soma dos valores pares presentes no vetor.
+Conceitos aplicados
 Vetores
 Estruturas de repetição
 Condicionais
 Operador módulo (%)
-2️⃣ Vetor com Números Aleatórios
-
-Programa que:
-
-Preenche automaticamente um vetor com 7 números aleatórios;
-Exibe os números gerados na tela.
-Conceitos aplicados:
-Geração de números aleatórios
-Vetores
-Laços de repetição
-3️⃣ Contagem de Ocorrências
+2️⃣ Vetor com Valores Aleatórios
 
 Programa responsável por:
 
-Solicitar 10 números ao usuário;
+Gerar automaticamente 7 números aleatórios;
 Armazenar os valores em um vetor;
-Solicitar um novo número;
-Verificar quantas vezes esse número aparece no vetor.
-Conceitos aplicados:
+Exibir os números gerados.
+Conceitos aplicados
+Geração de números aleatórios
+Vetores
+Estruturas de repetição
+3️⃣ Contagem de Ocorrências
+
+O programa realiza:
+
+Leitura de 10 números inteiros;
+Armazenamento dos valores em vetor;
+Solicitação de um número adicional ao usuário;
+Verificação da quantidade de vezes em que o número informado aparece no vetor.
+Conceitos aplicados
 Busca em vetores
 Contadores
-Entrada de dados
 Estruturas condicionais
+Entrada de dados
 4️⃣ Remoção de Valores Duplicados
 
-Programa que:
+Programa desenvolvido para:
 
-Solicita 10 números ao usuário;
-Armazena os valores em um vetor;
-Cria um novo vetor sem elementos duplicados;
-Exibe o vetor original e o vetor sem duplicatas.
-Conceitos aplicados:
+Ler 10 números inteiros;
+Armazenar os dados em um vetor;
+Criar um novo vetor sem elementos repetidos;
+Exibir o vetor original e o vetor sem duplicações.
+Conceitos aplicados
 Comparação entre elementos
 Controle de duplicidade
 Vetores auxiliares
-Algoritmos sem funções prontas de arrays
+Lógica sem funções prontas de arrays
+▶️ Como Executar os Programas
+Pré-requisitos
 
+Antes de executar os arquivos, é necessário possuir o:
+
+Node.js instalado na máquina.
+Execução dos Exercícios
+
+No terminal, execute:
+
+node exercicio1.js
+
+Para os demais exercícios:
+
+node exercicio2.js
+node exercicio3.js
+node exercicio4.js
 🔄 Versionamento com Git
 
-Os arquivos deste projeto foram versionados utilizando Git e enviados para um repositório remoto no GitHub.
+O projeto foi versionado utilizando Git e enviado para um repositório remoto no GitHub.
 
-Comandos utilizados:
-git status
+Principais comandos utilizados
+git init
 git add .
-git commit -m "banana"
+git commit -m "Adicionando exercícios de vetores em JavaScript"
+git branch -M main
+git remote add origin URL_DO_REPOSITORIO
 git push -u origin main
-📖 Aprendizados
+📖 Conhecimentos Desenvolvidos
 
-Durante o desenvolvimento desta atividade, foram praticados:
+Durante a realização desta atividade, foram praticados conceitos importantes como:
 
 Manipulação de vetores;
 Estruturas de repetição;
-Lógica de programação;
+Estruturas condicionais;
 Entrada e saída de dados;
-Organização de código;
-Versionamento de projetos com Git e GitHub.
-<img width="750" height="750" alt="OhYeahVectorGIF" src="https://github.com/user-attachments/assets/dfdc2c6b-4f9c-46d1-8347-2ff61a1f5055" />
+Organização de algoritmos;
+Versionamento de código com Git/GitHub.
