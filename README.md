@@ -136,4 +136,5 @@ Estruturas condicionais;
 Entrada e saída de dados;
 Organização de algoritmos;
 Versionamento de código com Git/GitHub.
-<img width="400" height="400" alt="OhYeahVectorGIF" src="https://github.com/user-attachments/assets/ecb7a7d5-1516-452b-b6c8-3bee889934bf" /><img width="400" height="400" alt="OhYeahVectorGIF" src="https://github.com/user-attachments/assets/ecb7a7d5-1516-452b-b6c8-3bee889934bf" />
+
+<img width="250" height="250" alt="OhYeahVectorGIF" src="https://github.com/user-attachments/assets/ecb7a7d5-1516-452b-b6c8-3bee889934bf" /><img width="250" height="250" alt="OhYeahVectorGIF" src="https://github.com/user-attachments/assets/ecb7a7d5-1516-452b-b6c8-3bee889934bf" />
