@@ -1,30 +1,46 @@
-📖 Sobre o Projeto
+# 📘 Projeto de Algoritmos em JavaScript — Manipulação de Vetores
 
-Este repositório reúne uma série de exercícios desenvolvidos em JavaScript, com foco em manipulação de vetores, lógica de programação e estruturas de repetição, sem a utilização de métodos prontos de arrays.
+## 📖 Sobre o Projeto
 
-As atividades foram propostas com o objetivo de fortalecer conceitos fundamentais da programação, além de incentivar boas práticas de organização e versionamento de código utilizando Git e GitHub.
+Este repositório reúne uma série de exercícios desenvolvidos em **JavaScript**, com foco em **manipulação de vetores**, **lógica de programação** e **estruturas de repetição**, sem a utilização de métodos prontos de arrays.
 
-🎯 Objetivos
-Desenvolver algoritmos utilizando vetores;
-Trabalhar lógica de programação em JavaScript;
-Utilizar estruturas condicionais e de repetição;
-Implementar soluções sem funções nativas de arrays;
-Realizar testes de execução dos programas;
-Aplicar versionamento local e remoto com Git.
-✅ Resultados Obtidos
+As atividades foram propostas com o objetivo de fortalecer conceitos fundamentais da programação, além de incentivar boas práticas de organização e versionamento de código utilizando **Git** e **GitHub**.
 
-✔️ Programas desenvolvidos em JavaScript (.js)
-✔️ Algoritmos testados e funcionando corretamente
-✔️ Utilização de estruturas de vetores para resolução dos problemas
-✔️ Organização e versionamento dos arquivos no GitHub
-✔️ Aplicação prática dos conceitos de lógica de programação
+---
 
-🛠️ Tecnologias Utilizadas
-JavaScript
-Node.js
-Git
-GitHub
-📂 Estrutura do Projeto
+# 🎯 Objetivos
+
+- Desenvolver algoritmos utilizando vetores;
+- Trabalhar lógica de programação em JavaScript;
+- Utilizar estruturas condicionais e de repetição;
+- Implementar soluções sem funções nativas de arrays;
+- Realizar testes de execução dos programas;
+- Aplicar versionamento local e remoto com Git.
+
+---
+
+# ✅ Resultados Obtidos
+
+✔️ Programas desenvolvidos em JavaScript (`.js`)  
+✔️ Algoritmos testados e funcionando corretamente  
+✔️ Utilização de estruturas de vetores para resolução dos problemas  
+✔️ Organização e versionamento dos arquivos no GitHub  
+✔️ Aplicação prática dos conceitos de lógica de programação  
+
+---
+
+# 🛠️ Tecnologias Utilizadas
+
+- JavaScript
+- Node.js
+- Git
+- GitHub
+
+---
+
+# 📂 Estrutura do Projeto
+
+```bash
 📁 algoritmos-vetores-js
 │
 ├── exercicio1.js
@@ -86,7 +102,7 @@ Lógica sem funções prontas de arrays
 ▶️ Como Executar os Programas
 Pré-requisitos
 
-Antes de executar os arquivos, é necessário possuir o:
+Antes de executar os arquivos, é necessário possuir:
 
 Node.js instalado na máquina.
 Execução dos Exercícios
