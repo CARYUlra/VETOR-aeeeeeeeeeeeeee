@@ -49,6 +49,7 @@ As atividades foram propostas com o objetivo de fortalecer conceitos fundamentai
 ├── exercicio4.js
 └── README.md
 📚 Exercícios Desenvolvidos
+````
 1️⃣ Soma dos Números Pares
 
 Desenvolvimento de um programa capaz de:
@@ -121,12 +122,10 @@ node exercicio4.js
 O projeto foi versionado utilizando Git e enviado para um repositório remoto no GitHub.
 
 Principais comandos utilizados
-git init
+git status
 git add .
-git commit -m "Adicionando exercícios de vetores em JavaScript"
-git branch -M main
-git remote add origin URL_DO_REPOSITORIO
-git push -u origin main
+git commit -m "banana"
+git push origin main
 📖 Conhecimentos Desenvolvidos
 
 Durante a realização desta atividade, foram praticados conceitos importantes como:
@@ -137,3 +136,4 @@ Estruturas condicionais;
 Entrada e saída de dados;
 Organização de algoritmos;
 Versionamento de código com Git/GitHub.
+<img width="400" height="400" alt="OhYeahVectorGIF" src="https://github.com/user-attachments/assets/ecb7a7d5-1516-452b-b6c8-3bee889934bf" /><img width="400" height="400" alt="OhYeahVectorGIF" src="https://github.com/user-attachments/assets/ecb7a7d5-1516-452b-b6c8-3bee889934bf" />
