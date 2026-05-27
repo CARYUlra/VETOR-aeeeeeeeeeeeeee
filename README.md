@@ -41,12 +41,12 @@ As atividades foram propostas com o objetivo de fortalecer conceitos fundamentai
 # 📂 Estrutura do Projeto
 
 ```bash
-📁 algoritmos-vetores-js
+📁 varias pastas
 │
-├── exercicio1.js
-├── exercicio2.js
-├── exercicio3.js
-├── exercicio4.js
+├── alzheimer
+├── caça niquel
+├── sem gemios
+├── somente pares denovo
 └── README.md
 📚 Exercícios Desenvolvidos
 ````
